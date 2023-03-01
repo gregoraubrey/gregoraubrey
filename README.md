@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 I am a recent graduate in Spanish and Linguistics from the University of Oxford. I love languages, reading, football, CS:GO (a bit too much), playing chess, and Oxford commas.
 
 #### I'm currently working on
-- The [School of Code](https://www.schoolofcode.co.uk/) bootcamp, starting in March.
+- The [School of Code](https://www.schoolofcode.co.uk/){:target="_blank"} bootcamp, starting in March.
 - Learning Japanese (at a snail's pace...)
-- Reading as much as time allows (follow me on [Goodreads](https://www.goodreads.com/user/show/109060712-gregor-aubrey)!)
+- Reading as much as time allows (follow me on [Goodreads](https://www.goodreads.com/user/show/109060712-gregor-aubrey){:target="_blank"}!)
 - Learning more about Linux and FOSS
 
 #### How to reach me
