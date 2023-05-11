@@ -21,7 +21,7 @@ I am a recent graduate in Spanish and Linguistics from the University of Oxford 
 #### I'm currently working on
 - The [School of Code](https://www.schoolofcode.co.uk/) bootcamp since March 2023.
 - Node.js, Express.js, and RESTful APIs.
-- [Reading]((https://www.goodreads.com/user/show/109060712-gregor-aubrey)) as much as time allows.
+- [Reading](https://www.goodreads.com/user/show/109060712-gregor-aubrey) as much as time allows.
 - Learning more about Linux and FOSS.
 
 #### How to reach me
