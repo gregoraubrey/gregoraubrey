@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 #### About me
-I am a recent graduate in Spanish and Linguistics from the University of Oxford and am in the process of learning full-stack web development. I love languages, reading, football, chess, and CS:GO to name a few!
+I am a recent graduate in Spanish and Linguistics from the University of Oxford and have just completed an intense 16-week bootcamp with [School of Code](https://www.schoolofcode.com/). I went from zero (learning about strings and Booleans in week 1), to creating a full-stack web application called [SwAPP](http://swappbitbybit.netlify.app/) using React (with TypeScript and Material UI) and Supabase by the end.
 
 #### I'm currently working on
-- The [School of Code](https://www.schoolofcode.co.uk/) bootcamp since March 2023.
-- Node.js, Express.js, and RESTful APIs.
 - [Reading](https://www.goodreads.com/user/show/109060712-gregor-aubrey) as much as time allows.
 - Learning more about Linux and FOSS.
 
