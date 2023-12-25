@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Engineer
 ------------------------
 
-I am a recent graduate in Spanish and Linguistics from the University of Oxford and have just completed an intense 16-week bootcamp with School of Code. I went from zero (learning about strings and Booleans in week 1), to creating a full-stack web application called [SwAPP](https://swappbitbybit.netlify.app/) using React (with TypeScript and Material UI) and Supabase by the end.
+I am a back-end engineer currently using Python and Django.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [gregoraubrey@protonmail.com](mailto:gregoraubrey@protonmail.com)
