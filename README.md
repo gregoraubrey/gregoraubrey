@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Engineer
 ------------------------
 
-I am a back-end engineer currently using Python and Django.
+I am currently a back-end engineer mainly using Python (Django, FastAPI).
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [gregoraubrey@protonmail.com](mailto:gregoraubrey@protonmail.com)
-* 🚀  I'm currently working on [learning Python](http://github.com/gregoraubrey/100DaysofCode) and [reading](https://www.goodreads.com/user/show/109060712-gregor-aubrey) as much as time allows.
+* 🚀  I'm currently working on expanding my knowledge of OOP and design patterns and [reading](https://hardcover.app/@gregor) as much as time allows.
 
 <!---### Skills--->
 
