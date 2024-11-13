@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Gregor
 =====================================================================================================================================
 
-Junior Software Engineer
+Software Engineer
 ------------------------
 
-I am currently a back-end engineer mainly using Python (Django, FastAPI).
+I am currently a back-end engineer mainly using Python (Django, FastAPI), although i also have experience with other languages (JS, TS, Go, Java).
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [gregoraubrey@protonmail.com](mailto:gregoraubrey@protonmail.com)
